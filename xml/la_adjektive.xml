@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<woerter>
+  <wort category="adjektiv" genera="1endig" id="5" sonderform="true">
+    <lemma>memor</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>memor</nominativ>
+          <genitiv>memoris</genitiv>
+          <dativ>memori</dativ>
+          <akkusativ>memorem</akkusativ>
+          <vokativ>memor</vokativ>
+          <ablativ>memori</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>memor</nominativ>
+          <genitiv>memoris</genitiv>
+          <dativ>memori</dativ>
+          <akkusativ>memorem</akkusativ>
+          <vokativ>memor</vokativ>
+          <ablativ>memori</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>memor</nominativ>
+          <genitiv>memoris</genitiv>
+          <dativ>memori</dativ>
+          <akkusativ>memor</akkusativ>
+          <vokativ>memor</vokativ>
+          <ablativ>memori</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>memores</nominativ>
+          <genitiv>memorum</genitiv>
+          <dativ>memoribus</dativ>
+          <akkusativ>memores</akkusativ>
+          <vokativ>memores</vokativ>
+          <ablativ>memoribus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>memores</nominativ>
+          <genitiv>memorum</genitiv>
+          <dativ>memoribus</dativ>
+          <akkusativ>memores</akkusativ>
+          <vokativ>memores</vokativ>
+          <ablativ>memoribus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>memora</nominativ>
+          <genitiv>memorum</genitiv>
+          <dativ>memoribus</dativ>
+          <akkusativ>memora</akkusativ>
+          <vokativ>memoria</vokativ>
+          <ablativ>memoribus</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+  </wort>
+  <wort category="adjektiv" genera="3endig" id="2" sonderform="true">
+    <lemma>magnus</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>magnus</nominativ>
+          <genitiv>magni</genitiv>
+          <dativ>magno</dativ>
+          <akkusativ>magnum</akkusativ>
+          <vokativ>magne</vokativ>
+          <ablativ>magno</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magna</nominativ>
+          <genitiv>magnae</genitiv>
+          <dativ>magnae</dativ>
+          <akkusativ>magnam</akkusativ>
+          <vokativ>magna</vokativ>
+          <ablativ>magna</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magnum</nominativ>
+          <genitiv>magni</genitiv>
+          <dativ>magno</dativ>
+          <akkusativ>magnum</akkusativ>
+          <vokativ>magnum</vokativ>
+          <ablativ>magno</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>magni</nominativ>
+          <genitiv>magnorum</genitiv>
+          <dativ>magnis</dativ>
+          <akkusativ>magnos</akkusativ>
+          <vokativ>magni</vokativ>
+          <ablativ>magnis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magnae</nominativ>
+          <genitiv>magnarum</genitiv>
+          <dativ>magnis</dativ>
+          <akkusativ>magnas</akkusativ>
+          <vokativ>magnae</vokativ>
+          <ablativ>magnis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magna</nominativ>
+          <genitiv>magnorum</genitiv>
+          <dativ>magnis</dativ>
+          <akkusativ>magna</akkusativ>
+          <vokativ>magna</vokativ>
+          <ablativ>magnis</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>maior</nominativ>
+          <genitiv>maioris</genitiv>
+          <dativ>maiori</dativ>
+          <akkusativ>maiorem</akkusativ>
+          <vokativ>maior</vokativ>
+          <ablativ>maiore</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maior</nominativ>
+          <genitiv>maioris</genitiv>
+          <dativ>maiori</dativ>
+          <akkusativ>maiorem</akkusativ>
+          <vokativ>maioris</vokativ>
+          <ablativ>maiore</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maius</nominativ>
+          <genitiv>maioris</genitiv>
+          <dativ>maiori</dativ>
+          <akkusativ>maius</akkusativ>
+          <vokativ>maius</vokativ>
+          <ablativ>maiore</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>maiores</nominativ>
+          <genitiv>maiorum</genitiv>
+          <dativ>maioribus</dativ>
+          <akkusativ>maiores</akkusativ>
+          <vokativ>maiores</vokativ>
+          <ablativ>maioribus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maiores</nominativ>
+          <genitiv>maiorum</genitiv>
+          <dativ>maioribus</dativ>
+          <akkusativ>maiores</akkusativ>
+          <vokativ>maiores</vokativ>
+          <ablativ>maioribus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maiora</nominativ>
+          <genitiv>maiorum</genitiv>
+          <dativ>maioribus</dativ>
+          <akkusativ>maiora</akkusativ>
+          <vokativ>maiora</vokativ>
+          <ablativ>maioribus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>maximus</nominativ>
+          <genitiv>maximi</genitiv>
+          <dativ>maximo</dativ>
+          <akkusativ>maximum</akkusativ>
+          <vokativ>maxime</vokativ>
+          <ablativ>maximo</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maxima</nominativ>
+          <genitiv>maximae</genitiv>
+          <dativ>maximae</dativ>
+          <akkusativ>maximam</akkusativ>
+          <vokativ>maxima</vokativ>
+          <ablativ>maxima</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maximum</nominativ>
+          <genitiv>maximi</genitiv>
+          <dativ>maximo</dativ>
+          <akkusativ>maximum</akkusativ>
+          <vokativ>maximum</vokativ>
+          <ablativ>maximo</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>maximi</nominativ>
+          <genitiv>maximorum</genitiv>
+          <dativ>maximis</dativ>
+          <akkusativ>maximos</akkusativ>
+          <vokativ>maximi</vokativ>
+          <ablativ>maximis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maximae</nominativ>
+          <genitiv>maximarum</genitiv>
+          <dativ>maximis</dativ>
+          <akkusativ>maximas</akkusativ>
+          <vokativ>maximae</vokativ>
+          <ablativ>maximis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maxima</nominativ>
+          <genitiv>maximorum</genitiv>
+          <dativ>maximis</dativ>
+          <akkusativ>maxima</akkusativ>
+          <vokativ>maxima</vokativ>
+          <ablativ>maximis</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+  <wort category="adjektiv" genera="2endig" id="3" sonderform="true">
+    <lemma>letalis</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>letalis</nominativ>
+          <genitiv>letalis</genitiv>
+          <dativ>letali</dativ>
+          <akkusativ>letalem</akkusativ>
+          <vokativ>letalis</vokativ>
+          <ablativ>letali</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>letalis</nominativ>
+          <genitiv>letalis</genitiv>
+          <dativ>letali</dativ>
+          <akkusativ>letalem</akkusativ>
+          <vokativ>letalis</vokativ>
+          <ablativ>letali</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>letale</nominativ>
+          <genitiv>letalis</genitiv>
+          <dativ>letali</dativ>
+          <akkusativ>letale</akkusativ>
+          <vokativ>letale</vokativ>
+          <ablativ>letali</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>letales</nominativ>
+          <genitiv>letalium</genitiv>
+          <dativ>letalibus</dativ>
+          <akkusativ>letales</akkusativ>
+          <vokativ>letales</vokativ>
+          <ablativ>letalibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>letales</nominativ>
+          <genitiv>letalium</genitiv>
+          <dativ>letalibus</dativ>
+          <akkusativ>letales</akkusativ>
+          <vokativ>letales</vokativ>
+          <ablativ>letalibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>letalia</nominativ>
+          <genitiv>letalium</genitiv>
+          <dativ>letalibus</dativ>
+          <akkusativ>letalia</akkusativ>
+          <vokativ>letalia</vokativ>
+          <ablativ>letalibus</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>magis letalis</nominativ>
+          <genitiv>magis letalis</genitiv>
+          <dativ>magis letali</dativ>
+          <akkusativ>magis letalem</akkusativ>
+          <vokativ>magis letalis</vokativ>
+          <ablativ>magis letali</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magis letalis</nominativ>
+          <genitiv>magis letalis</genitiv>
+          <dativ>magis letali</dativ>
+          <akkusativ>magis letalem</akkusativ>
+          <vokativ>magis letalis</vokativ>
+          <ablativ>magis letali</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magis letale</nominativ>
+          <genitiv>magis letalis</genitiv>
+          <dativ>magis letali</dativ>
+          <akkusativ>magis letale</akkusativ>
+          <vokativ>magis letale</vokativ>
+          <ablativ>magis letali</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>magis letales</nominativ>
+          <genitiv>magis letalium</genitiv>
+          <dativ>magis letalibus</dativ>
+          <akkusativ>magis letales</akkusativ>
+          <vokativ>magis letales</vokativ>
+          <ablativ>magis letalibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magis letales</nominativ>
+          <genitiv>magis letalium</genitiv>
+          <dativ>magis letalibus</dativ>
+          <akkusativ>magis letales</akkusativ>
+          <vokativ>magis letales</vokativ>
+          <ablativ>magis letalibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magis letalia</nominativ>
+          <genitiv>magis letalium</genitiv>
+          <dativ>magis letalibus</dativ>
+          <akkusativ>magis letalia</akkusativ>
+          <vokativ>magis letalia</vokativ>
+          <ablativ>magis letalibus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>maxime letalis</nominativ>
+          <genitiv>maxime letalis</genitiv>
+          <dativ>maxime letali</dativ>
+          <akkusativ>maxime letalem</akkusativ>
+          <vokativ>maxime letalis</vokativ>
+          <ablativ>maxime letali</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maxime letalis</nominativ>
+          <genitiv>maxime letalis</genitiv>
+          <dativ>maxime letali</dativ>
+          <akkusativ>maxime letalem</akkusativ>
+          <vokativ>maxime letalis</vokativ>
+          <ablativ>maxime letali</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maxime letale</nominativ>
+          <genitiv>maxime letalis</genitiv>
+          <dativ>maxime letali</dativ>
+          <akkusativ>maxime letale</akkusativ>
+          <vokativ>maxime letale</vokativ>
+          <ablativ>maxime letali</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>maxime letales</nominativ>
+          <genitiv>maxime letalium</genitiv>
+          <dativ>maxime letalibus</dativ>
+          <akkusativ>maxime letales</akkusativ>
+          <vokativ>maxime letales</vokativ>
+          <ablativ>maxime letalibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maxime letales</nominativ>
+          <genitiv>maxime letalium</genitiv>
+          <dativ>maxime letalibus</dativ>
+          <akkusativ>maxime letales</akkusativ>
+          <vokativ>maxime letales</vokativ>
+          <ablativ>maxime letalibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maxime letalia</nominativ>
+          <genitiv>maxime letalium</genitiv>
+          <dativ>maxime letalibus</dativ>
+          <akkusativ>maxime letalia</akkusativ>
+          <vokativ>maxime letalia</vokativ>
+          <ablativ>maxime letalibus</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+  <wort category="adjektiv" genera="2endig" id="4" sonderform="true">
+    <lemma>gravis</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>gravis</nominativ>
+          <genitiv>gravis</genitiv>
+          <dativ>gravi</dativ>
+          <akkusativ>gravem</akkusativ>
+          <vokativ>gravis</vokativ>
+          <ablativ>gravi</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>gravis</nominativ>
+          <genitiv>gravis</genitiv>
+          <dativ>gravi</dativ>
+          <akkusativ>gravem</akkusativ>
+          <vokativ>gravis</vokativ>
+          <ablativ>gravi</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>grave</nominativ>
+          <genitiv>gravis</genitiv>
+          <dativ>gravi</dativ>
+          <akkusativ>grave</akkusativ>
+          <vokativ>grave</vokativ>
+          <ablativ>gravi</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>graves</nominativ>
+          <genitiv>gravium</genitiv>
+          <dativ>gravibus</dativ>
+          <akkusativ>graves</akkusativ>
+          <vokativ>graves</vokativ>
+          <ablativ>gravibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>graves</nominativ>
+          <genitiv>gravium</genitiv>
+          <dativ>gravibus</dativ>
+          <akkusativ>graves</akkusativ>
+          <vokativ>graves</vokativ>
+          <ablativ>gravibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>gravia</nominativ>
+          <genitiv>gravium</genitiv>
+          <dativ>gravibus</dativ>
+          <akkusativ>gravia</akkusativ>
+          <vokativ>gravia</vokativ>
+          <ablativ>gravibus</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>gravior</nominativ>
+          <genitiv>gravioris</genitiv>
+          <dativ>graviori</dativ>
+          <akkusativ>graviorem</akkusativ>
+          <vokativ>gravior</vokativ>
+          <ablativ>graviore</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>gravior</nominativ>
+          <genitiv>gravioris</genitiv>
+          <dativ>graviori</dativ>
+          <akkusativ>graviorem</akkusativ>
+          <vokativ>gravioris</vokativ>
+          <ablativ>graviore</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>gravius</nominativ>
+          <genitiv>gravioris</genitiv>
+          <dativ>graviori</dativ>
+          <akkusativ>gravius</akkusativ>
+          <vokativ>gravius</vokativ>
+          <ablativ>graviore</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>graviores</nominativ>
+          <genitiv>graviorum</genitiv>
+          <dativ>gravioribus</dativ>
+          <akkusativ>graviores</akkusativ>
+          <vokativ>graviores</vokativ>
+          <ablativ>gravioribus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>graviores</nominativ>
+          <genitiv>graviorum</genitiv>
+          <dativ>gravioribus</dativ>
+          <akkusativ>graviores</akkusativ>
+          <vokativ>graviores</vokativ>
+          <ablativ>gravioribus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>graviora</nominativ>
+          <genitiv>graviorum</genitiv>
+          <dativ>gravioribus</dativ>
+          <akkusativ>graviora</akkusativ>
+          <vokativ>graviora</vokativ>
+          <ablativ>gravioribus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>gravissimus</nominativ>
+          <genitiv>gravissimi</genitiv>
+          <dativ>gravissimo</dativ>
+          <akkusativ>gravissimum</akkusativ>
+          <vokativ>gravissime</vokativ>
+          <ablativ>gravissimo</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>gravissima</nominativ>
+          <genitiv>gravissimae</genitiv>
+          <dativ>gravissimae</dativ>
+          <akkusativ>gravissimam</akkusativ>
+          <vokativ>gravissima</vokativ>
+          <ablativ>gravissima</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>gravissimum</nominativ>
+          <genitiv>gravissimi</genitiv>
+          <dativ>gravissimo</dativ>
+          <akkusativ>gravissimum</akkusativ>
+          <vokativ>gravissimum</vokativ>
+          <ablativ>gravissimo</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>gravissimi</nominativ>
+          <genitiv>gravissimorum</genitiv>
+          <dativ>gravissimis</dativ>
+          <akkusativ>gravissimos</akkusativ>
+          <vokativ>gravissimi</vokativ>
+          <ablativ>gravissimis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>gravissimae</nominativ>
+          <genitiv>gravissimarum</genitiv>
+          <dativ>gravissimis</dativ>
+          <akkusativ>gravissimas</akkusativ>
+          <vokativ>gravissimae</vokativ>
+          <ablativ>gravissimis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>gravissima</nominativ>
+          <genitiv>gravissimorum</genitiv>
+          <dativ>gravissimis</dativ>
+          <akkusativ>gravissima</akkusativ>
+          <vokativ>gravissima</vokativ>
+          <ablativ>gravissimis</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+  <wort category="adjektiv" genera="3endig" id="10" sonderform="true">
+    <lemma>arduus</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>arduus</nominativ>
+          <genitiv>ardui</genitiv>
+          <dativ>arduo</dativ>
+          <akkusativ>arduum</akkusativ>
+          <vokativ>ardue</vokativ>
+          <ablativ>arduo</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>ardua</nominativ>
+          <genitiv>arduae</genitiv>
+          <dativ>arduae</dativ>
+          <akkusativ>arduam</akkusativ>
+          <vokativ>ardua</vokativ>
+          <ablativ>ardua</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>arduum</nominativ>
+          <genitiv>ardui</genitiv>
+          <dativ>arduo</dativ>
+          <akkusativ>arduum</akkusativ>
+          <vokativ>arduum</vokativ>
+          <ablativ>arduo</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>ardui</nominativ>
+          <genitiv>arduorum</genitiv>
+          <dativ>arduis</dativ>
+          <akkusativ>arduos</akkusativ>
+          <vokativ>ardui</vokativ>
+          <ablativ>arduis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>arduae</nominativ>
+          <genitiv>arduarum</genitiv>
+          <dativ>arduis</dativ>
+          <akkusativ>arduas</akkusativ>
+          <vokativ>arduae</vokativ>
+          <ablativ>arduis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>ardua</nominativ>
+          <genitiv>arduorum</genitiv>
+          <dativ>arduis</dativ>
+          <akkusativ>ardua</akkusativ>
+          <vokativ>ardua</vokativ>
+          <ablativ>arduis</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>magis arduus</nominativ>
+          <genitiv>magis arduis</genitiv>
+          <dativ>magis ardui</dativ>
+          <akkusativ>magis arduem</akkusativ>
+          <vokativ>magis arduus</vokativ>
+          <ablativ>magis ardui</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magis arduis</nominativ>
+          <genitiv>magis arduis</genitiv>
+          <dativ>magis ardui</dativ>
+          <akkusativ>magis arduem</akkusativ>
+          <vokativ>magis arduis</vokativ>
+          <ablativ>magis ardui</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magis ardue</nominativ>
+          <genitiv>magis arduis</genitiv>
+          <dativ>magis ardui</dativ>
+          <akkusativ>magis ardue</akkusativ>
+          <vokativ>magis ardue</vokativ>
+          <ablativ>magis ardui</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>magis ardues</nominativ>
+          <genitiv>magis arduium</genitiv>
+          <dativ>magis arduibus</dativ>
+          <akkusativ>magis ardues</akkusativ>
+          <vokativ>magis ardues</vokativ>
+          <ablativ>magis arduibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>magis ardues</nominativ>
+          <genitiv>magis arduium</genitiv>
+          <dativ>magis arduibus</dativ>
+          <akkusativ>magis ardues</akkusativ>
+          <vokativ>magis ardues</vokativ>
+          <ablativ>magis arduibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>magis arduia</nominativ>
+          <genitiv>magis arduium</genitiv>
+          <dativ>magis arduibus</dativ>
+          <akkusativ>magis arduia</akkusativ>
+          <vokativ>magis arduia</vokativ>
+          <ablativ>magis arduibus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>maxime arduus</nominativ>
+          <genitiv>maxime arduis</genitiv>
+          <dativ>maxime ardui</dativ>
+          <akkusativ>maxime arduem</akkusativ>
+          <vokativ>maxime arduus</vokativ>
+          <ablativ>maxime ardui</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maxime arduis</nominativ>
+          <genitiv>maxime arduis</genitiv>
+          <dativ>maxime ardui</dativ>
+          <akkusativ>maxime arduem</akkusativ>
+          <vokativ>maxime arduis</vokativ>
+          <ablativ>maxime ardui</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maxime ardue</nominativ>
+          <genitiv>maxime arduis</genitiv>
+          <dativ>maxime ardui</dativ>
+          <akkusativ>maxime ardue</akkusativ>
+          <vokativ>maxime ardue</vokativ>
+          <ablativ>maxime ardui</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>maxime ardues</nominativ>
+          <genitiv>maxime arduium</genitiv>
+          <dativ>maxime arduibus</dativ>
+          <akkusativ>maxime ardues</akkusativ>
+          <vokativ>maxime ardues</vokativ>
+          <ablativ>maxime arduibus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>maxime ardues</nominativ>
+          <genitiv>maxime arduium</genitiv>
+          <dativ>maxime arduibus</dativ>
+          <akkusativ>maxime ardues</akkusativ>
+          <vokativ>maxime ardues</vokativ>
+          <ablativ>maxime arduibus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>maxime arduia</nominativ>
+          <genitiv>maxime arduium</genitiv>
+          <dativ>maxime arduibus</dativ>
+          <akkusativ>maxime arduia</akkusativ>
+          <vokativ>maxime arduia</vokativ>
+          <ablativ>maxime arduibus</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+  <wort category="adjektiv" genera="3endig" id="1" sonderform="true">
+    <lemma>bonus</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>bonus</nominativ>
+          <genitiv>bonis</genitiv>
+          <dativ>boni</dativ>
+          <akkusativ>bonem</akkusativ>
+          <vokativ>bonus</vokativ>
+          <ablativ>boni</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>bonis</nominativ>
+          <genitiv>bonis</genitiv>
+          <dativ>boni</dativ>
+          <akkusativ>bonem</akkusativ>
+          <vokativ>bonis</vokativ>
+          <ablativ>boni</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>bone</nominativ>
+          <genitiv>bonis</genitiv>
+          <dativ>boni</dativ>
+          <akkusativ>bone</akkusativ>
+          <vokativ>bone</vokativ>
+          <ablativ>boni</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>boni</nominativ>
+          <genitiv>bonorum</genitiv>
+          <dativ>bonis</dativ>
+          <akkusativ>bonos</akkusativ>
+          <vokativ>boni</vokativ>
+          <ablativ>bonis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>bonae</nominativ>
+          <genitiv>bonarum</genitiv>
+          <dativ>bonis</dativ>
+          <akkusativ>bonas</akkusativ>
+          <vokativ>bonae</vokativ>
+          <ablativ>bonis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>bona</nominativ>
+          <genitiv>bonorum</genitiv>
+          <dativ>bonis</dativ>
+          <akkusativ>bona</akkusativ>
+          <vokativ>bona</vokativ>
+          <ablativ>bonis</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>melior</nominativ>
+          <genitiv>melioris</genitiv>
+          <dativ>meliori</dativ>
+          <akkusativ>meliorem</akkusativ>
+          <vokativ>melior</vokativ>
+          <ablativ>meliore</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>melior</nominativ>
+          <genitiv>melioris</genitiv>
+          <dativ>meliori</dativ>
+          <akkusativ>meliorem</akkusativ>
+          <vokativ>melioris</vokativ>
+          <ablativ>meliore</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>melius</nominativ>
+          <genitiv>melioris</genitiv>
+          <dativ>meliori</dativ>
+          <akkusativ>melius</akkusativ>
+          <vokativ>melius</vokativ>
+          <ablativ>meliore</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>meliores</nominativ>
+          <genitiv>meliorum</genitiv>
+          <dativ>melioribus</dativ>
+          <akkusativ>meliores</akkusativ>
+          <vokativ>meliores</vokativ>
+          <ablativ>melioribus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>meliores</nominativ>
+          <genitiv>meliorum</genitiv>
+          <dativ>melioribus</dativ>
+          <akkusativ>meliores</akkusativ>
+          <vokativ>meliores</vokativ>
+          <ablativ>melioribus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>meliora</nominativ>
+          <genitiv>meliorum</genitiv>
+          <dativ>melioribus</dativ>
+          <akkusativ>meliora</akkusativ>
+          <vokativ>meliora</vokativ>
+          <ablativ>melioribus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>optimus</nominativ>
+          <genitiv>optimi</genitiv>
+          <dativ>optimo</dativ>
+          <akkusativ>optimum</akkusativ>
+          <vokativ>optime</vokativ>
+          <ablativ>optimo</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>optima</nominativ>
+          <genitiv>optimae</genitiv>
+          <dativ>optimae</dativ>
+          <akkusativ>optimam</akkusativ>
+          <vokativ>optima</vokativ>
+          <ablativ>optima</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>optimum</nominativ>
+          <genitiv>optimi</genitiv>
+          <dativ>optimo</dativ>
+          <akkusativ>optimum</akkusativ>
+          <vokativ>optimum</vokativ>
+          <ablativ>optimo</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>optimi</nominativ>
+          <genitiv>optimorum</genitiv>
+          <dativ>optimis</dativ>
+          <akkusativ>optimos</akkusativ>
+          <vokativ>optimi</vokativ>
+          <ablativ>optimis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>optimae</nominativ>
+          <genitiv>optimarum</genitiv>
+          <dativ>optimis</dativ>
+          <akkusativ>optimas</akkusativ>
+          <vokativ>optimae</vokativ>
+          <ablativ>optimis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>optima</nominativ>
+          <genitiv>optimorum</genitiv>
+          <dativ>optimis</dativ>
+          <akkusativ>optima</akkusativ>
+          <vokativ>optima</vokativ>
+          <ablativ>optimis</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+  <wort category="adjektiv" genera="3endig" id="9" sonderform="true">
+    <lemma>altus</lemma>
+    <positiv>
+      <singular>
+        <maskulin>
+          <nominativ>altus</nominativ>
+          <genitiv>alti</genitiv>
+          <dativ>alto</dativ>
+          <akkusativ>altum</akkusativ>
+          <vokativ>alte</vokativ>
+          <ablativ>alto</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>alta</nominativ>
+          <genitiv>altae</genitiv>
+          <dativ>altae</dativ>
+          <akkusativ>altam</akkusativ>
+          <vokativ>alta</vokativ>
+          <ablativ>alta</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>altum</nominativ>
+          <genitiv>alti</genitiv>
+          <dativ>alto</dativ>
+          <akkusativ>altum</akkusativ>
+          <vokativ>altum</vokativ>
+          <ablativ>alto</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>alti</nominativ>
+          <genitiv>altorum</genitiv>
+          <dativ>altis</dativ>
+          <akkusativ>altos</akkusativ>
+          <vokativ>alti</vokativ>
+          <ablativ>altis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>altae</nominativ>
+          <genitiv>altarum</genitiv>
+          <dativ>altis</dativ>
+          <akkusativ>altas</akkusativ>
+          <vokativ>altae</vokativ>
+          <ablativ>altis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>alta</nominativ>
+          <genitiv>altorum</genitiv>
+          <dativ>altis</dativ>
+          <akkusativ>alta</akkusativ>
+          <vokativ>alta</vokativ>
+          <ablativ>altis</ablativ>
+        </neutrum>
+      </plural>
+    </positiv>
+    <komparativ>
+      <singular>
+        <maskulin>
+          <nominativ>altior</nominativ>
+          <genitiv>altioris</genitiv>
+          <dativ>altiori</dativ>
+          <akkusativ>altiorem</akkusativ>
+          <vokativ>altior</vokativ>
+          <ablativ>altiore</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>altior</nominativ>
+          <genitiv>altioris</genitiv>
+          <dativ>altiori</dativ>
+          <akkusativ>altiorem</akkusativ>
+          <vokativ>altioris</vokativ>
+          <ablativ>altiore</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>altius</nominativ>
+          <genitiv>altioris</genitiv>
+          <dativ>altiori</dativ>
+          <akkusativ>altius</akkusativ>
+          <vokativ>altius</vokativ>
+          <ablativ>altiore</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>altiores</nominativ>
+          <genitiv>altiorum</genitiv>
+          <dativ>altioribus</dativ>
+          <akkusativ>altiores</akkusativ>
+          <vokativ>altiores</vokativ>
+          <ablativ>altioribus</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>altiores</nominativ>
+          <genitiv>altiorum</genitiv>
+          <dativ>altioribus</dativ>
+          <akkusativ>altiores</akkusativ>
+          <vokativ>altiores</vokativ>
+          <ablativ>altioribus</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>altiora</nominativ>
+          <genitiv>altiorum</genitiv>
+          <dativ>altioribus</dativ>
+          <akkusativ>altiora</akkusativ>
+          <vokativ>altiora</vokativ>
+          <ablativ>altioribus</ablativ>
+        </neutrum>
+      </plural>
+    </komparativ>
+    <superlativ>
+      <singular>
+        <maskulin>
+          <nominativ>altissimus</nominativ>
+          <genitiv>altissimi</genitiv>
+          <dativ>altissimo</dativ>
+          <akkusativ>altissimum</akkusativ>
+          <vokativ>altissime</vokativ>
+          <ablativ>altissimo</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>altissima</nominativ>
+          <genitiv>altissimae</genitiv>
+          <dativ>altissimae</dativ>
+          <akkusativ>altissimam</akkusativ>
+          <vokativ>altissima</vokativ>
+          <ablativ>altissima</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>altissimum</nominativ>
+          <genitiv>altissimi</genitiv>
+          <dativ>altissimo</dativ>
+          <akkusativ>altissimum</akkusativ>
+          <vokativ>altissimum</vokativ>
+          <ablativ>altissimo</ablativ>
+        </neutrum>
+      </singular>
+      <plural>
+        <maskulin>
+          <nominativ>altissimi</nominativ>
+          <genitiv>altissimorum</genitiv>
+          <dativ>altissimis</dativ>
+          <akkusativ>altissimos</akkusativ>
+          <vokativ>altissimi</vokativ>
+          <ablativ>altissimis</ablativ>
+        </maskulin>
+        <feminin>
+          <nominativ>altissimae</nominativ>
+          <genitiv>altissimarum</genitiv>
+          <dativ>altissimis</dativ>
+          <akkusativ>altissimas</akkusativ>
+          <vokativ>altissimae</vokativ>
+          <ablativ>altissimis</ablativ>
+        </feminin>
+        <neutrum>
+          <nominativ>altissima</nominativ>
+          <genitiv>altissimorum</genitiv>
+          <dativ>altissimis</dativ>
+          <akkusativ>altissima</akkusativ>
+          <vokativ>altissima</vokativ>
+          <ablativ>altissimis</ablativ>
+        </neutrum>
+      </plural>
+    </superlativ>
+  </wort>
+</woerter>
